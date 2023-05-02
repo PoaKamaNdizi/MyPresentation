@@ -1,0 +1,12 @@
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\bin\Debug\Bindy Project.exe.config
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\bin\Debug\Bindy Project.exe
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\bin\Debug\Bindy Project.pdb
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\bin\Debug\Bindy Project.xml
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.exe
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.xml
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.pdb
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\35.Bindy Solution_EXERCISE 18_advanced\Bindy Project\obj\Debug\Bindy Project.vbproj.CoreCompileInputs.cache

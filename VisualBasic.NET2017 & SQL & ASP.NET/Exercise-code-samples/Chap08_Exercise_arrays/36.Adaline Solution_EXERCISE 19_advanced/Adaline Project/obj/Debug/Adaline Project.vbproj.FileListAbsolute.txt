@@ -1,0 +1,11 @@
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\bin\Debug\Adaline Project.exe.config
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\bin\Debug\Adaline Project.exe
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\bin\Debug\Adaline Project.pdb
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\bin\Debug\Adaline Project.xml
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline Project.exe
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline Project.xml
+d:\VB2017\Chap08\_Exercise\36.Adaline Solution_EXERCISE 19_advanced\Adaline Project\obj\Debug\Adaline Project.pdb

@@ -1,0 +1,23 @@
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.exe.config
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.exe
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.pdb
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.xml
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.exe
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.xml
+d:\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Debug\Organic Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Debug\Organic Project.pdb

@@ -1,0 +1,34 @@
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe.config
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.pdb
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.xml
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.exe
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.xml
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.pdb
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\bin\Debug\Schneider Project.exe.config
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\bin\Debug\Schneider Project.exe
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\bin\Debug\Schneider Project.pdb
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\bin\Debug\Schneider Project.xml
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider Project.exe
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider Project.xml
+d:\VB2017\Chap08\_Exercise\27.Schneider Solution_EXERCISE 10_advanced\Schneider Project\obj\Debug\Schneider Project.pdb
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\bin\Debug\Schneider Project.exe.config
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\bin\Debug\Schneider Project.exe
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\bin\Debug\Schneider Project.pdb
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\bin\Debug\Schneider Project.xml
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.exe
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.xml
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.pdb
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\28.Schneider Solution-TwoDim_EXERCISE 11_advanced\Schneider Project\obj\Debug\Schneider Project.vbproj.CoreCompileInputs.cache

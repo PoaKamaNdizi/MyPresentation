@@ -1,0 +1,11 @@
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Release\Organic Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Release\Organic Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Release\Organic Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\bin\Release\Organic Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap08\_Exercise\34.Organic Solution_EXERCISE 17_advanced\Organic Project\obj\Release\Organic Project.pdb

@@ -1,0 +1,11 @@
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\bin\Debug\Shipping Depot Project.exe.config
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\bin\Debug\Shipping Depot Project.exe
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\bin\Debug\Shipping Depot Project.pdb
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\bin\Debug\Shipping Depot Project.xml
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping Depot Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping_Depot_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping_Depot_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping Depot Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping Depot Project.exe
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping Depot Project.xml
+d:\VB2017\Chap08\_Exercise\30.Shipping Depot Solution_EXERCISE 13_advanced\Shipping Depot Project\obj\Debug\Shipping Depot Project.pdb

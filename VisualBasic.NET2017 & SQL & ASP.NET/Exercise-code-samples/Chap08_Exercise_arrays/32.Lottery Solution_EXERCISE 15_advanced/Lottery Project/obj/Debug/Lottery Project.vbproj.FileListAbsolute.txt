@@ -1,0 +1,22 @@
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.exe.config
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.exe
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.pdb
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.xml
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery_Project.frmMain.resources
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery_Project.Resources.resources
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.exe
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.xml
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.pdb
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\bin\Debug\Lottery Project.exe.config
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\bin\Debug\Lottery Project.exe
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\bin\Debug\Lottery Project.pdb
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\bin\Debug\Lottery Project.xml
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery Project.exe
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery Project.xml
+d:\VB2017\Chap08\_Exercise\32.Lottery Solution_EXERCISE 15_advanced\Lottery Project\obj\Debug\Lottery Project.pdb

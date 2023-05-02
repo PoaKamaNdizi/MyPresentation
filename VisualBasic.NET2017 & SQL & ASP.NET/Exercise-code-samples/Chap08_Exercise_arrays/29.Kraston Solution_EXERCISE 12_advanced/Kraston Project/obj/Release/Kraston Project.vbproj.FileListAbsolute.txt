@@ -1,0 +1,11 @@
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\bin\Release\Kraston Project.exe.config
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\bin\Release\Kraston Project.exe
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\bin\Release\Kraston Project.pdb
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\bin\Release\Kraston Project.xml
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston_Project.frmMain.resources
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston_Project.Resources.resources
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston Project.exe
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston Project.xml
+d:\VB2017\Chap08\_Exercise\29.Kraston Solution_EXERCISE 12_advanced\Kraston Project\obj\Release\Kraston Project.pdb
