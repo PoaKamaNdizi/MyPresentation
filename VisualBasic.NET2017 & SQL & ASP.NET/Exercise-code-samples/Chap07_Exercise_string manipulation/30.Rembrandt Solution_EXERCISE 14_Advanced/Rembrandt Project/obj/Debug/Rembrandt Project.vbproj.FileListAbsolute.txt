@@ -1,0 +1,23 @@
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\bin\Debug\Rembrandt Project.exe.config
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\bin\Debug\Rembrandt Project.exe
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\bin\Debug\Rembrandt Project.pdb
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\bin\Debug\Rembrandt Project.xml
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt_Project.frmMain.resources
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt_Project.Resources.resources
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt Project.exe
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt Project.xml
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_intermediate\Rembrandt Project\obj\Debug\Rembrandt Project.pdb
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\bin\Debug\Rembrandt Project.exe.config
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\bin\Debug\Rembrandt Project.exe
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\bin\Debug\Rembrandt Project.pdb
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\bin\Debug\Rembrandt Project.xml
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt_Project.frmMain.resources
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt_Project.Resources.resources
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.exe
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.xml
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.pdb
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap07\_Exercise\30.Rembrandt Solution_EXERCISE 14_Advanced\Rembrandt Project\obj\Debug\Rembrandt Project.vbproj.CoreCompileInputs.cache

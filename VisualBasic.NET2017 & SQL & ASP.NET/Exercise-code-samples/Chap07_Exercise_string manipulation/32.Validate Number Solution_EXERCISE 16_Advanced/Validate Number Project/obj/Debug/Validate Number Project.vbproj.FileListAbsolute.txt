@@ -1,0 +1,12 @@
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\bin\Debug\Validate Number Project.exe.config
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\bin\Debug\Validate Number Project.exe
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\bin\Debug\Validate Number Project.pdb
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\bin\Debug\Validate Number Project.xml
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate_Number_Project.frmMain.resources
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate_Number_Project.Resources.resources
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.exe
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.xml
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.pdb
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap07\_Exercise\32.Validate Number Solution_EXERCISE 16_Advanced\Validate Number Project\obj\Debug\Validate Number Project.vbproj.CoreCompileInputs.cache
