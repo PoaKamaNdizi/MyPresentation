@@ -1,0 +1,12 @@
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\bin\Debug\Framington Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\bin\Debug\Framington Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\bin\Debug\Framington Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\bin\Debug\Framington Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\12.Framington Solution_EXERCISE 8_advanced\Framington Project\obj\Debug\Framington Project.pdb

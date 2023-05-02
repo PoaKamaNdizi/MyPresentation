@@ -1,0 +1,15 @@
+E:\VB2017\AppC\Average Score Solution\Average Score Project\obj\Debug\Average_Score_Project.frmMain.resources
+E:\VB2017\AppC\Average Score Solution\Average Score Project\obj\Debug\Average_Score_Project.Resources.resources
+E:\VB2017\AppC\Average Score Solution\Average Score Project\obj\Debug\Average Score Project.vbproj.GenerateResource.Cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\bin\Debug\Average Score Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\bin\Debug\Average Score Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\bin\Debug\Average Score Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\bin\Debug\Average Score Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average_Score_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average_Score_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\10.Average Score Solution_EXERCISE 6_intermediate\Average Score Project\obj\Debug\Average Score Project.pdb

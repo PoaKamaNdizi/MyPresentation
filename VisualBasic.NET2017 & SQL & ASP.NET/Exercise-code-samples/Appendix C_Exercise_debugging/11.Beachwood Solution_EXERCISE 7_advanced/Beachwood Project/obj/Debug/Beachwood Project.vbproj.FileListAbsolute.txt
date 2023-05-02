@@ -1,0 +1,12 @@
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\bin\Debug\Beachwood Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\bin\Debug\Beachwood Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\bin\Debug\Beachwood Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\bin\Debug\Beachwood Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Appendix_C\_Exercise\11.Beachwood Solution_EXERCISE 7_advanced\Beachwood Project\obj\Debug\Beachwood Project.pdb
