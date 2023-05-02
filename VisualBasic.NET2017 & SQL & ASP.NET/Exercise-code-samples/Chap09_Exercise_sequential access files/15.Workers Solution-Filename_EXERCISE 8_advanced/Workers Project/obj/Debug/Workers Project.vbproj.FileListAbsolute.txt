@@ -1,0 +1,22 @@
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\bin\Debug\Workers Project.exe.config
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\bin\Debug\Workers Project.exe
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\bin\Debug\Workers Project.pdb
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\bin\Debug\Workers Project.xml
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers_Project.frmMain.resources
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers_Project.Resources.resources
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers Project.exe
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers Project.xml
+d:\VB2017\Chap09\_Exercise\09.Workers Solution_EXERCISE 2_introductory\Workers Project\obj\Debug\Workers Project.pdb
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\bin\Debug\Workers Project.exe.config
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\bin\Debug\Workers Project.exe
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\bin\Debug\Workers Project.pdb
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\bin\Debug\Workers Project.xml
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers_Project.frmMain.resources
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers_Project.Resources.resources
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers Project.exe
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers Project.xml
+d:\VB2017\Chap09\_Exercise\15.Workers Solution-Filename_EXERCISE 8_advanced\Workers Project\obj\Debug\Workers Project.pdb

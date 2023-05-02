@@ -1,0 +1,11 @@
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\bin\Debug\Wedding Project.exe.config
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\bin\Debug\Wedding Project.exe
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\bin\Debug\Wedding Project.pdb
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\bin\Debug\Wedding Project.xml
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding_Project.frmMain.resources
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding_Project.Resources.resources
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding Project.exe
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding Project.xml
+d:\VB2017\Chap09\_Exercise\16.Wedding Solution_EXERCISE 9_advanced\Wedding Project\obj\Debug\Wedding Project.pdb

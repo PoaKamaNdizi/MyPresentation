@@ -1,0 +1,11 @@
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\bin\Debug\Vacation Project.exe.config
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\bin\Debug\Vacation Project.exe
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\bin\Debug\Vacation Project.pdb
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\bin\Debug\Vacation Project.xml
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation Project.vbprojResolveAssemblyReference.cache
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation_Project.frmMain.resources
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation_Project.Resources.resources
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation Project.vbproj.GenerateResource.Cache
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation Project.exe
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation Project.xml
+d:\VB2017\Chap09\_Exercise\14.Vacation Solution_EXERCISE 7_advanced\Vacation Project\obj\Debug\Vacation Project.pdb
