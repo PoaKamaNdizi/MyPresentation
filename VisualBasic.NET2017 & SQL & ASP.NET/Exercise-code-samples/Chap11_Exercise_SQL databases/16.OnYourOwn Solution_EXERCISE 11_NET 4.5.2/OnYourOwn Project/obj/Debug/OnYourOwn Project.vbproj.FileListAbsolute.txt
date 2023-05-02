@@ -1,0 +1,14 @@
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe.config
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwn Project.pdb
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwn Project.xml
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn_Project.frmMain.resources
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.exe
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.xml
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\obj\Debug\OnYourOwn Project.pdb
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwnDatabase.mdf
+d:\VB2017\Chap11\_Exercise\16.OnYourOwn Solution_EXERCISE 11_NET 4.5.2\OnYourOwn Project\bin\Debug\OnYourOwnDatabase_log.ldf

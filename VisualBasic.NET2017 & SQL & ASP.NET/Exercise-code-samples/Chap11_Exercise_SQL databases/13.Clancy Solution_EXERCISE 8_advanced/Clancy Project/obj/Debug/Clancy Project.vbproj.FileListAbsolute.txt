@@ -1,0 +1,14 @@
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy.mdf
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy_log.ldf
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy Project.exe.config
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy Project.exe
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy Project.pdb
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\bin\Debug\Clancy Project.xml
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy_Project.frmMain.resources
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy_Project.Resources.resources
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.exe
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.xml
+d:\VB2017\Chap11\_Exercise\13.Clancy Solution_EXERCISE 8_advanced\Clancy Project\obj\Debug\Clancy Project.pdb

@@ -1,0 +1,14 @@
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global.mdf
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global_log.ldf
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global Project.exe.config
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global Project.exe
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global Project.pdb
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\bin\Debug\Global Project.xml
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global_Project.frmMain.resources
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global_Project.Resources.resources
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.exe
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.xml
+d:\VB2017\Chap11\_Exercise\15.Global Solution_EXERCISE 10_advanced\Global Project\obj\Debug\Global Project.pdb
