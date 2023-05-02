@@ -1,0 +1,38 @@
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Galore.mdf
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Galore_log.ldf
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.exe.config
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.exe
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.pdb
+E:\VB2017\Chap12\Games Solution\Games Project\bin\Debug\Games Project.xml
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games_Project.frmMain.resources
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games_Project.Resources.resources
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.exe
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.xml
+E:\VB2017\Chap12\Games Solution\Games Project\obj\Debug\Games Project.pdb
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Galore.mdf
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Galore_log.ldf
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.exe.config
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.exe
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.pdb
+E:\VB2017\Chap12\Data\Games Solution\Games Project\bin\Debug\Games Project.xml
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games_Project.frmMain.resources
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games_Project.Resources.resources
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.exe
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.xml
+E:\VB2017\Chap12\Data\Games Solution\Games Project\obj\Debug\Games Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Galore.mdf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Galore_log.ldf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Games Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Games Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Games Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\bin\Debug\Games Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\12.Games Solution_EXERCISE 5_advanced\Games Project\obj\Debug\Games Project.pdb

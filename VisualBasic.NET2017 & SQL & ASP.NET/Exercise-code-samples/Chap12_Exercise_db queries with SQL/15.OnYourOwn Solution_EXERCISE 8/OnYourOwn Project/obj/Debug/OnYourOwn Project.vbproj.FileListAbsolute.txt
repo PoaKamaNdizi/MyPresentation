@@ -1,0 +1,14 @@
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\MyDatabase.mdf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\MyDatabase_log.ldf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\OnYourOwn Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\bin\Debug\OnYourOwn Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\15.OnYourOwn Solution_EXERCISE 8\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbprojAssemblyReference.cache

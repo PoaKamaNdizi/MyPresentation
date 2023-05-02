@@ -1,0 +1,41 @@
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene.mdf
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene_log.ldf
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.exe.config
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.exe
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.pdb
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\bin\Debug\Adalene Project.xml
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.exe
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.xml
+E:\VB2017\Chap12\Adalene Solution\Adalene Project\obj\Debug\Adalene Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene.mdf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene_log.ldf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\bin\Debug\Adalene Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\10.Adalene Solution_EXERCISE 3_intermediate\Adalene Project\obj\Debug\Adalene Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene.mdf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene_log.ldf
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene Project.exe.config
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene Project.pdb
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\bin\Debug\Adalene Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.vbprojAssemblyReference.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene_Project.frmMain.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene_Project.Resources.resources
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.vbproj.GenerateResource.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.vbproj.CoreCompileInputs.cache
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.exe
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.xml
+c:\Users\Martin Brett\Documents\VB2017\Chap12\_Exercise\14.Adalene Solution-TotalSales_EXERCISE 7_advanced\Adalene Project\obj\Debug\Adalene Project.pdb
