@@ -1,0 +1,12 @@
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\bin\Debug\Playground Project.exe.config
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\bin\Debug\Playground Project.exe
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\bin\Debug\Playground Project.pdb
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\bin\Debug\Playground Project.xml
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground_Project.frmMain.resources
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground_Project.Resources.resources
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.exe
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.xml
+d:\VB2017\Chap10\_Exercise\15.Playground Solution_EXERCISE 6_advanced\Playground Project\obj\Debug\Playground Project.pdb

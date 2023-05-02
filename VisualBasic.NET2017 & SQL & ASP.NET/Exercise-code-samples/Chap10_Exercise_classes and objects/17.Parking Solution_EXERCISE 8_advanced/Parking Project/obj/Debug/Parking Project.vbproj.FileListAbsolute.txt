@@ -1,0 +1,12 @@
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\bin\Debug\Parking Project.exe.config
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\bin\Debug\Parking Project.exe
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\bin\Debug\Parking Project.pdb
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\bin\Debug\Parking Project.xml
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking_Project.frmMain.resources
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking_Project.Resources.resources
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.exe
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.xml
+d:\VB2017\Chap10\_Exercise\17.Parking Solution_EXERCISE 8_advanced\Parking Project\obj\Debug\Parking Project.pdb

@@ -1,0 +1,2 @@
+Check number: 123456, Date: 12/06/1936, Payee: Michael Jackson, Amount: $12.69
+Check number: 1, Date: 08/08/2569, Payee: George Huston, Amount: $698.00

@@ -1,0 +1,12 @@
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\bin\Debug\Serenity Project.exe.config
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\bin\Debug\Serenity Project.exe
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\bin\Debug\Serenity Project.pdb
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\bin\Debug\Serenity Project.xml
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.vbprojAssemblyReference.cache
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity_Project.frmMain.resources
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity_Project.Resources.resources
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.vbproj.GenerateResource.cache
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.vbproj.CoreCompileInputs.cache
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.exe
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.xml
+d:\VB2017\Chap10\_Exercise\19.Serenity Solution_EXERCISE 10_advanced\Serenity Project\obj\Debug\Serenity Project.pdb

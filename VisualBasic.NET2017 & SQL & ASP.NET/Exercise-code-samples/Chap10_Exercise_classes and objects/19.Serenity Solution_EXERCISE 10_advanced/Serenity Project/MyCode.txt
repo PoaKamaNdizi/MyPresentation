@@ -1,0 +1,115 @@
+' Name:       Serenity project
+' Purpose:    Record the payments
+' Programmer: PoaKamaNdizi on TimeStamp
+
+' 1. create GUI shown in Figure 10-44
+
+' 2. The manager of the Accounts Payable department at Serenity Photos wants an app, that
+'   keeps track of the checks written by her department: she wants to record
+'   - in sequential access file: the check number, date, payee, amount of each check.
+
+' 3. class.vb
+'   - create a class that can instantiate a "check" object. The Class should contain:
+'   - a default constructor, a parameterized constructor
+'   - a method that saves the check information to a sequential access file
+'   - use the Class to code the application. Test
+
+Option Explicit On
+Option Strict On
+Option Infer Off
+
+Public Class frmMain
+    Private outFile As IO.StreamWriter           ' CH9_F2
+
+    Private Sub btnSave_Click(sender As Object, e As EventArgs) Handles btnSave.Click
+        ' conditions:
+        ' - txt1Number > 0; txt2Date must have a form: 00/00/0000; txt3Amount > 0, txt4Name <> String.Empty
+
+        Dim intNumber As Integer
+        Dim strDate As String = txt2Date.Text
+        Dim dblAmount As Double
+        Dim strName As String = txt4Name.Text
+
+        Integer.TryParse(txt1Number.Text, intNumber)
+        Double.TryParse(txt3Amount.Text, dblAmount)
+
+        If intNumber > 0 Then             ' #1 condition: number > 0
+            'lblSaved.Visible = True
+
+            If strDate Like "##/##/####" Then   ' #2 condition: date in correct format
+                'lblSaved.Visible = True
+
+                If dblAmount > 0 Then           ' #3 condition: amount > 0
+                    'lblSaved.Visible = True
+
+                    If strName <> String.Empty Then   ' #4 condition: Name is filled
+                        ' if all of the conditions are met:
+                        outFile = IO.File.AppendText("Checks.txt")
+                        outFile.WriteLine("Check number: " & intNumber.ToString & ", Date: " & strDate & ", Amount: " & dblAmount.ToString("C2") & ", Payee: " & strName)
+                        outFile.Close()
+
+                        lblSaved.Visible = True
+                    Else
+                        MessageBox.Show("Please enter the name.", "Serenity Photos", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                        txt4Name.Focus()
+                    End If
+                Else
+                    MessageBox.Show("Please enter the amount.", "Serenity Photos", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                    txt3Amount.Focus()
+                End If
+            Else
+                MessageBox.Show("Please enter the date in correct format.", "Serenity Photos", MessageBoxButtons.OK, MessageBoxIcon.Information)
+                txt2Date.Focus()
+            End If
+        Else
+            MessageBox.Show("Please enter the check number.", "Serenity Photos", MessageBoxButtons.OK, MessageBoxIcon.Information)
+            txt1Number.Focus()
+        End If
+    End Sub
+
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        Me.Close()
+    End Sub
+
+    Private Sub txt1Number_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt1Number.KeyPress
+        ' input: Check number - only numbers, BackSpace key:
+        If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub txt2Date_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt2Date.KeyPress
+        ' input: date - only numbers, "/", BackSpace key:
+        If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso e.KeyChar <> "/" AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub txt3Amount_KeyPress(sender As Object, e As KeyPressEventArgs) Handles txt3Amount.KeyPress
+        ' input: Amount - only numbers, ".", BackSpace key:
+        If (e.KeyChar < "0" OrElse e.KeyChar > "9") AndAlso e.KeyChar <> "." AndAlso e.KeyChar <> ControlChars.Back Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub txts_TextChanged(sender As Object, e As EventArgs) Handles txt1Number.TextChanged, txt2Date.TextChanged,
+                                                                           txt3Amount.TextChanged, txt4Name.TextChanged
+        lblSaved.Visible = False
+    End Sub
+
+    Private Sub txt1Number_Enter(sender As Object, e As EventArgs) Handles txt1Number.Enter
+        txt1Number.SelectAll()
+    End Sub
+
+    Private Sub txt2Date_Enter(sender As Object, e As EventArgs) Handles txt2Date.Enter
+        txt2Date.SelectAll()
+    End Sub
+
+    Private Sub txt3Amount_Enter(sender As Object, e As EventArgs) Handles txt3Amount.Enter
+        txt3Amount.SelectAll()
+    End Sub
+
+    Private Sub txt4Name_Enter(sender As Object, e As EventArgs) Handles txt4Name.Enter
+        txt4Name.SelectAll()
+    End Sub
+End Class
